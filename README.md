@@ -1,3 +1,19 @@
+# Project Details
+This website is supposed to hire bots from website.
+
+![Project Image](https://github.com/ProgrammingHeroWC4/the-superhero-direction-thrifat007/blob/main/Preview.png)
+
+# Live Link
+
+Click this link to [See Live](https://hirebots.netlify.app/)
+
+# Functioality Details
+
+- User can hire bots for any types of tasks, there are more than 20 bots for diffrent specialities.
+- Shpping charge, TAX are included depending on the prices of the bots.
+- User can view the selected bots in the selected bot list section.
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
